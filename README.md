@@ -12,7 +12,7 @@ Year 12 software builder in Australia working across financial intelligence, hea
 
 ## Engineering
 
-**Primary languages:** Python · TypeScript · SQL
+**Primary languages:** Python · Rust · TypeScript · SQL
 
 I work mainly on:
 - data and research pipelines

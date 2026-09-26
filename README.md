@@ -18,6 +18,7 @@ I use AI-assisted development extensively and build across data and research pip
 
 ## Selected public work
 
+- [Market Intelligence](https://github.com/Romone6/market-intelligence-system)
 - [Callable](https://github.com/Romone6/Callable)
 - [MindBridge](https://github.com/Romone6/mindbridge)
 - [Pathway to Entry](https://github.com/Romone6/yac-project)

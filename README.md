@@ -12,7 +12,9 @@ Year 12 software builder in Australia working across financial intelligence, hea
 
 ## Engineering
 
-**Primary languages:** Python · Rust · TypeScript · SQL
+I use AI-assisted development extensively and am currently strengthening my independent programming fundamentals.
+
+**Project technologies:** Python · TypeScript · SQL · Rust (learning)
 
 I work mainly on:
 - data and research pipelines
